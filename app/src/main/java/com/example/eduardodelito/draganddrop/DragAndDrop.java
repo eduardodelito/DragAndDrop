@@ -21,7 +21,7 @@ public class DragAndDrop extends Activity {
      */
     private ImageView img = null;
     private AbsoluteLayout aLayout;
-    int status = 0;
+    private int status = 0;
 
     @Override
     public void onCreate(Bundle savedInstanceState) {
