@@ -19,7 +19,7 @@ public class DragAndDrop extends Activity {
     /**
      * Called when the activity is first created.
      */
-    ImageView img = null;
+    private ImageView img = null;
     AbsoluteLayout aLayout;
     int status = 0;
 
